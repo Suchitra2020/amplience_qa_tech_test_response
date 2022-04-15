@@ -1,1 +1,1 @@
-# amplience_qa_tech_test_response
+# Amplience QA Engineer Technical Test Response
