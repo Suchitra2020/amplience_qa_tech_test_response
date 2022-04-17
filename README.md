@@ -31,7 +31,7 @@ chromedriver_exe_path =  '../chromedriver'
 
 ### Running tests
 
-To execute the tests - run below command in the terminal inside this folder.
+To execute the tests, run below command in the terminal inside folder containing the repo contents.
 
 ```bash
 py.test -v
